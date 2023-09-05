@@ -1,0 +1,25 @@
+.board-row {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.container-board {
+  max-width: 400px;
+  margin: 40px;
+  margin-left: 35%;
+  text-align: center;
+}
+
+.scores {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  font-weight: 700;
+}
+
+div .btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
